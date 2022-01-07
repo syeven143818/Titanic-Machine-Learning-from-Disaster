@@ -20,7 +20,7 @@ Rscript hw5_studentID.R --fold n --train Titanic_Data/train.csv --test Titanic_D
 5. Submit your prediction to Kaggle system under display name: 1101DS@NCCU_[your-studentID]
 6. Make a snapshot of your score on Leaderboard and update in your README.md
 
-![titanicLeaderBoard](titanic.png)
+![titanicLeaderBoard]()
 
 ## Score
 
