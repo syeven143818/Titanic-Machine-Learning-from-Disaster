@@ -90,10 +90,6 @@ for (k in 1:fold) {
   }
   
   
-  test_set$gp <- NULL
-  vali_set$gp <- NULL
-  training_set$gp <- NULL
-  
   
   # model using decision tree
   model <- rpart(Survived ~ Pclass + Sex + Age + SibSp + Parch + Fare + Embarked,
