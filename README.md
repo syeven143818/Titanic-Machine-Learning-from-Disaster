@@ -12,5 +12,3 @@
 ```R
 Rscript Rfile.R --fold n --train Titanic_Data/train.csv --test Titanic_Data/test.csv --report performance.csv --predict predict.csv
 ```
-
-![titanicLeaderBoard](titanic_109258042.png)
