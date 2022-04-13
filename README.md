@@ -4,8 +4,9 @@
 
 ## 內容包含：
 
-1. 資料處理、清洗、分析
-2. 特徵工程
-3. 資料視覺化
-5. 模型設定、訓練
-6. 超參數的調整
+1. 資料前處理 (Missing Value)
+2. 特徵工程 (Feature Engineering)
+3. 資料視覺化 (Data Visualization)
+5. 模型設定、訓練 (Training Model)
+6. 模型評估 (Model Evaluation)
+7. 超參數的調整 (Hyperparameter Tuning)
