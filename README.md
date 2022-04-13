@@ -2,13 +2,10 @@
 
 [Kaggle Titanic](https://www.kaggle.com/c/titanic)
 
-## Steps
+## 內容包含：
 
-1. perform *n*-fold cross-validation on the training data under three-way split to select the best prediction model
-2. report the average accuracy of cross-validation (training, validation, testing in *n*-fold cross-validation)
-3. then apply the selected model on the test data
-4. output prediction result
-
-```R
-Rscript Rfile.R --fold n --train Titanic_Data/train.csv --test Titanic_Data/test.csv --report performance.csv --predict predict.csv
-```
+1. 資料處理、清洗、分析
+2. 特徵工程
+3. 資料視覺化
+5. 模型設定、訓練
+6. 超參數的調整
